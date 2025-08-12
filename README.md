@@ -5,7 +5,7 @@ All done using Binary Search. Based off my swift code for [Queenfisher](https://
 
 ## Install
 
-`npm i github:erlangga/keyed-db`
+`npm i github:erlanggaaXzzz/keyed-db`
 
 ## Running Tests
 
